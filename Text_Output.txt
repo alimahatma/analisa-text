@@ -1,0 +1,470 @@
+=========================================================================
+                          ARTIKEL FOOTBALL                                 
+=========================================================================
+
+=================================
+Printing Summary = 1
+=================================
+['Wayne Rooney made a winning return to Everton as Manchester United cruised into the FA Cup quarter-finals.', 'Rooney received a hostile reception, but goals in each half from Quinton Fortune and Cristiano Ronaldo silenced the jeers at Goodison Park.', "Fortune headed home after 23 minutes before Ronaldo scored when Nigel Martyn parried Paul Scholes' free-kick.", "Marcus Bent missed Everton's best chance when Roy Carroll, who was later struck by a missile, saved at his feet.", "Fortune gave United the lead after 23 minutes, rising to meet Ronaldo's cross from eight yards after the Portuguese youngster had been allowed too much time and space by the hapless Gary Naysmith.", "United almost doubled their lead after 48 minutes when Ronaldo's low drive from 25 yards took a deflection off Tony Hibbert, but Martyn dived to save brilliantly.", "Scholes' free-kick took a deflection, and Martyn could only parry the ball out for Ronaldo, who reacted first to score easily.", 'Manchester United: Carroll, Gary Neville, Brown, Ferdinand, Heinze, Ronaldo, Phil Neville, Keane, Scholes, Fortune, Rooney.']
+
+Printing Keywords = 1
+['united', 'ronaldo', 'martyn', 'everton', 'fortune', 'rooney', 'carroll', 'bent', 'scholes', 'players', 'player', 'mcfadden', 'arteta', 'gary', 'subs', 'neville', 'naysmith']
+
+
+=================================
+Printing Summary = 2
+=================================
+['Manchester United striker Ruud van Nistelrooy may make his comeback after an Achilles tendon injury in the FA Cup fifth round tie at Everton on Saturday.', '"The training he has been doing in Holland has been perfect and I am very satisfied with it." Even without Van Nistelrooy, United made it 13 wins in 15 league games with a 2-0 derby victory at Manchester City on Sunday.', 'Ferguson was unhappy with Van Nistelrooy for not revealing he was carrying an injury.']
+
+Printing Keywords = 2
+['united', 'ferguson', 'ruud', 'league']
+
+
+=================================
+Printing Summary = 3
+=================================
+['Everton manager David Moyes will discipline striker James Beattie after all for his headbutt on Chelsea defender William Gallas.', 'He said: "I believe that I should set the record straight by conceding that the dismissal was right and correct." Moyes added: "My comments on Saturday came immediately after the final whistle and at a point when I had only had the opportunity to see one, very quick re-run of the incident."', 'The club website also reported that Beattie, who seemed unrepentant after Saturday\'s match, insisting Gallas "would have stayed down a lot longer" if he had headbutted him, has now apologised.', 'However, I must say that I do still believe the Chelsea player in question did go down too easily." Speaking immediately after the game, Moyes said: "I don\'t think it was a sending-off, I have been a centre-half in my time and I would have been ashamed to have gone down as easily as that.', 'I thought it was a push initially and I still don\'t think it was a sending-off." An angry Beattie initially said: "He (Gallas) would have stayed down a lot longer if I had headbutted him.']
+
+Printing Keywords = 3
+['moyes', 'beattie', 'gallas', 'initially defended', 'james', 'centre', 'defender']
+
+
+=================================
+Printing Summary = 4
+=================================
+['Manchester United winger Cristiano Ronaldo said he is close to agreeing to a new contract at Old Trafford.', '"The United board have already made an offer to renew the contract but I\'m trying not to think about it," he told the News of the World.', 'I think we\'ll reach a good agreement for both sides." Ronaldo refused to commit his long-term future to the club.']
+
+Printing Keywords = 4
+['ronaldo', 'united']
+
+
+=================================
+Printing Summary = 5
+=================================
+['Scotland manager Walter Smith has given his backing to the reinstatement of the Home International series.', 'But Smith said: "Bringing it back would add meaning to friendly games and that\'s something that\'s needed." The Home International series was done away with in 1984, with the traditional Scotland-England fixture continuing until 1989.', '"So I would support the return of the home internationals - the only problem would be fitting them in to the fixture schedule."']
+
+Printing Keywords = 5
+['scotland', 'england', 'fixtures', 'fixture', 'smith']
+
+
+=================================
+Printing Summary = 6
+=================================
+["Ahmed 'Mido' Hossam has made another apology to the Egyptian people in an attempt to rejoin the national team.", 'Mido said: "There isn\'t much I have to say today, all there is to say is that I came specially from England to Egypt to rejoin the national team and to apologise for all my mistakes." Mido was axed by former coach Marco Tardelli after failing to answer a national call-up, claiming he had a groin injury.', '"Mido\'s apology today does not negatively affect Mido in anyway, on the contrary it makes him a bigger star and a role model for all football players," Shalaby said.', 'Shalaby earlier said that after an apology Mido would be available for the national side if coach Hassan Shehata chose him.']
+
+Printing Keywords = 6
+['mido', 'shalaby', 'stars', 'star', 'egypt', 'news', 'new', 'players', 'apology']
+
+
+=================================
+Printing Summary = 7
+=================================
+["Wayne Rooney met Gary Neville's cross to the near post with a low shot, which went in via a deflection off Richard Dunne, to put United ahead.", "Steve McManaman wasted City's best chance when he shot wide from three yards in the first half.", 'In the opening 45 minutes United had looked unlikely to earn the win they needed to maintain any chance of catching Chelsea in the title race.', "And when Neville delivered a cross in a carbon copy of City's best first-half chance, Rooney showed McManaman how to do it - even if he needed the help of Dunne's leg.", "On 75 minutes, he scored a horrible own goal when attempting to volley clear Rooney's cross and United seemed home and dry.", '- Manchester City boss Kevin Keegan: "We had a great chance to take the lead and the first goal was always going to be crucial.', '"But we still had four good chances, two after we\'d gone 2-0 down, the one McManaman missed was very similar to the one Wayne Rooney scored from." ', '"Derby games can be like that, they can be scrappy, dull, horrible and it was maybe like that." Man City: James, Mills (Bradley Wright-Phillips 83), Dunne, Distin, Thatcher, Shaun Wright-Phillips, Barton (Macken 68), Sibierski, McManaman, Musampa, Fowler.', "Man Utd: Carroll, Gary Neville, Ferdinand, Brown, Heinze, O'Shea (Ronaldo 33), Keane, Fortune, Fletcher (Giggs 64), Rooney, Scholes (Phil Neville 84).", 'Goals: Rooney 68, Dunne 75 og.']
+
+Printing Keywords = 7
+['rooney', 'united', 'chance', 'chances', 'dunne', 'looked', 'looking', 'mcmanaman', 'city', 'scholes', 'ronaldo', 'neville', 'fowler', 'minutes', 'james', 'giggs', 'wright', 'brown']
+
+
+=================================
+Printing Summary = 8
+=================================
+['Steven Gerrard has admitted that Liverpool have little chance of winning the Champions League this season.', "The Reds are currently fifth in the Premiership table, five points off the crucial fourth spot, which brings Champions League qualification - and they face Chelsea in Sunday's Carling Cup final.", '"We\'re fighting for the fourth spot for the Champions League for next season but we are still involved in two cup competitions, which are very important.', '"We are confident we can upset Chelsea in the Carling Cup final and get to the last eight of the Champions League because, financially, it is big for the club and, personally for myself, it is very good."']
+
+Printing Keywords = 8
+['teams', 'team', 'gerrard', 'cup', 'reds', 'fourth', 'chelsea', 'bbc']
+
+
+=================================
+Printing Summary = 9
+=================================
+['Duff sustained a knee injury in the FA Cup defeat at Newcastle and manager Jose Mourinho said: "He cannot run.', 'His injury is very painful, so he is out." But Mourinho has revealed defender Willian Gallas and striker Didier Drogba will be in the starting line-up.', 'Mourinho said: "We have one more session but I think Drogba will play, and Gallas will play.']
+
+Printing Keywords = 9
+['drogba', 'gallas', 'duff', 'cole', 'mourinho']
+
+
+=================================
+Printing Summary = 10
+=================================
+['John Arne Riise volleyed Liverpool ahead after 45 seconds but Steven Gerrard scored a 79th-minute own goal.', 'Blues boss Jose Mourinho was sent off for taunting Liverpool fans after the goal and he watched on television as his side went on to win the game.', "And despite Chelsea's possession, it was Liverpool who fashioned the next clear opportunity as Luis Garcia fed Dietmar Hamann whose shot forced a superb save from Cech.", "And the Blues' increasingly adventurous approach saw Liverpool earn another chance on the break on 75 minutes as Paulo Ferreira denied Gerrard with a last-ditch tackle.", "That prompted Mourinho's reaction which saw him sent off, but Chelsea still pressed and Duff had a chance to win the game with seven minutes remaining.", 'Drogba almost headed Chelsea in front two minutes into extra-time but the striker saw the ball rebound off the post.', "There was still drama as Nunez beat Cech to a high ball with six minutes remaining to head his side level, but despite Liverpool's desperate attacks, Chelsea clung on to win.", 'Dudek, Finnan, Carragher, Hyypia, Traore (Biscan 67), Luis Garcia, Gerrard, Hamann, Riise, Kewell (Nunez 56), Morientes (Baros 74).', 'Cech, Paulo Ferreira, Ricardo Carvalho, Terry, Gallas (Kezman 74), Jarosik (Gudjohnsen 45), Lampard, Makelele, Cole (Johnson 81), Drogba, Duff.']
+
+Printing Keywords = 10
+['chelsea', 'liverpool', 'shot', 'riise', 'kezman', 'drogba', 'dudek', 'nunez', 'minute', 'minutes', 'blues', 'gerrard', 'lampard', 'save', 'saved', 'time', 'duff', 'attacking', 'attacks', 'gallas', 'hamann']
+
+
+=========================================================================
+                            ARTIKEL TENNIS                                 
+=========================================================================
+
+=================================
+Printing Summary = 1
+=================================
+['Tim Henman saved a match point before fighting back to defeat British rival Greg Rusedski 4-6 7-6 (8-6) 6-4 at the Dubai Tennis Championships on Tuesday.', "Serve was held by both players with few alarms until the seventh game of the final set, when Rusedski's wild volley gave Henman a vital break.", 'Rusedski won his service game but Henman took the first of his three match points with a service winner to secure his place in the second round at Dubai for the first time in three years.', 'It was the first match between the pair for three years - Henman last lost to Rusedski six years ago - and lasted two hours and 40 minutes.']
+
+Printing Keywords = 1
+['henman', 'rusedski', 'set', 'tennis', 'game', 'rival', 'rivals', 'volley']
+
+
+=================================
+Printing Summary = 2
+=================================
+['Marat Safin suffered a shock loss to unseeded Nicolas Kiefer in round one of the Dubai Tennis Championships.', 'And he maintained the momentum early in the second set, breaking the Russian with the help of an inspired volley.']
+
+Printing Keywords = 2
+['safin', 'seeded', 'seed', 'lopez', 'russian', 'russians', 'volley', 'fabrice']
+
+
+=================================
+Printing Summary = 3
+=================================
+['Former world number one Juan Carlos Ferrero insists he can get back to his best despite a tough start to 2005.', 'The 2003 French Open champion has slipped to 64 in the world after a year of illness and injuries in 2004, but is confident that his form will return.', '"In the past when I was a top seed I would have played a match like that in the quarters or semi-finals.', '"This is the big difference but I have to do it to get higher in the rankings." Despite this, Ferrero insists he is feeling positive after chicken pox and a rib injury destroyed last season.', 'Among the low points of a difficult year for Ferrero was the decision of Spain captain Jordi Arrese to drop him for the Davis Cup final against the USA.', '"It was difficult because I had been playing well for the whole year and the coaches told me that I would play," said Ferrero.']
+
+Printing Keywords = 3
+['ferrero', 'world', 'seed', 'seeded', 'difficult', 'told', 'nadal', 'match', 'matches', 'open', 'opens']
+
+
+=================================
+Printing Summary = 4
+=================================
+['Roddick into San Jose final', 'Andy Roddick will play Cyril Saulnier in the final of the SAP Open in San Jose on Sunday.', "The American top seed and defending champion overcame Germany's Tommy Haas, the third seed, 7-6 (7-3) 6-3.", 'And Saulnier survived an injury scare in his semi-final with seventh-seeded Austrian Jurgen Melzer.', 'I\'ll keep fighting and work a lot and I\'ll be up there."']
+
+Printing Keywords = 4
+['roddick', 'haas', 'saulnier', 'overcame', 'final']
+
+
+=================================
+Printing Summary = 5
+=================================
+['World number one Roger Federer added the Dubai Championship trophy to his long list of successes - but not before he was given a test by Ivan Ljubicic.', "The match was a re-run of last week's final at the World Indoor Tournament in Rotterdam, where Federer triumphed, but not until Ljubicic had stretched him for five sets.", '"I really wanted to get off to a good start this time, and I did, and I could really play with confidence while he still looking for his rhythm," Federer said.', '"I had a chance in the third, and for me it\'s really positive to twice in two weeks have a chance against Roger to win the match.']
+
+Printing Keywords = 5
+['federer', 'world', 'great', 'tim', 'set', 'sets']
+
+
+=================================
+Printing Summary = 6
+=================================
+['Young debut cut short by Ginepri', "Fifteen-year-old Donald Young's first appearance in an ATP tennis tournament proved brief as the teenager went out in round one of the San Jose Open.", 'But the wildcard entry was dispatched by fellow American Robby Ginepri in straight sets, 6-2 6-2, in California.', 'Young, who beat two players ranked in the top 200 when he was just 14, was only 2-1 down in the first set before losing 10 of the next 13 games.', 'Agassi has won the San Jose five times, but his run of three straight titles ended last year when he fell to Mardy Fish in the semi-finals.']
+
+Printing Keywords = 6
+['american', 'young debut', 'open', 'opens', 'fish', 'jan', 'defeated', 'standings', 'future', 'seed']
+
+
+=================================
+Printing Summary = 7
+=================================
+['Second seed Andre Agassi suffered a comprehensive defeat by Jurgen Melzer in the quarter-finals of the SAP Open.', '"It\'s always tough to come out to play Andre.', '"I didn\'t want him to play his game.', 'He makes you run like a dog all over the court." And Agassi, who was more than matched for power by his opponent\'s two-handed backhand, said Melzer was an example of several players on the tour willing to take their chances against him.']
+
+Printing Keywords = 7
+['agassi', 'seed', 'melzer', 'game', 'andre']
+
+
+=================================
+Printing Summary = 8
+=================================
+['Top seed Roger Federer had to save two match points before squeezing past Juan Carlos Ferrero at the Dubai Open.', 'The world number one took two hours 15 minutes to earn his 4-6 6-3 7-6 victory, saving match points at 6-4 in the tiebreak before claiming it 8-6.', 'Federer made a number of unforced errors early on, allowing Ferrero to take advantage and claim the first set.']
+
+Printing Keywords = 8
+['match', 'federer', 'russian', 'seed', 'worried']
+
+
+=================================
+Printing Summary = 9
+=================================
+['Rafael Nadal continued his run of fine form to beat Guillermo Canas and reach the Mexican Open semis in Acapulco.', "Argentina's Agustin Calleri beat fourth seed Jiri Novak 7-5 6-1 in a battle of former champions at the Mexican Open.", 'Argentine wild card Mariano Puerta continued his improbable run, outlasting Felix Mantilla 6-4 3-6 7-6.']
+
+Printing Keywords = 9
+['seed', 'open', 'argentine', 'calleri', 'beat', 'nadal']
+
+
+=================================
+Printing Summary = 10
+=================================
+['Daniela Hantuchova moved into the quarter-finals of the Dubai Open, after beating Elene Likhotseva of Russia 7-5 6-4, and now faces Serena Williams.', "Australian Open champion Williams survived an early scare to beat Russia's Elena Bovina 1-6 6-1 6-4.", "Davenport defeated China's Jie Zheng 6-2 7-5, while French Open champion Myskina sailed through after her opponent Marion Bartoli retired hurt.", '"I started well and finished well, but played some so-so games in the middle," she said.', '"I feel I have an advantage (over Serena) because I have already played two matches on these courts," she said.']
+
+Printing Keywords = 10
+['williams', 'davenport', 'champion', 'myskina', 'open', 'mood']
+
+
+=========================================================================
+                            ARTIKEL RUGBY                                  
+=========================================================================
+
+=================================
+Printing Summary = 1
+=================================
+["Fly-half Charlie Hodgson admitted his wayward kicking played a big part in England's 18-17 defeat to France.", 'Hodgson failed to convert three penalties and also missed a relatively easy drop goal attempt which would have given England a late win.', 'My training\'s been good but it just didn\'t happen." Hodgson revealed that Olly Barkley had taken three penalties because they were "out of my range" but the centre could not convert his opportunities either, particularly the drop goal late on.', '"They won the game from kicking penalties from our 10m line.', 'England went in at half-time with a 17-6 lead but they failed to score in the second half and Dimitri Yachvili slotted over four penalties as France overhauled the deficit.', "England skipper Jason Robinson admitted his side failed to cope with France's improved second-half display.", '"We controlled the game in the first half but we knew that they would come out and try everything after half-time," he said.']
+
+Printing Keywords = 1
+['england', 'hodgson', 'half', 'kicking', 'robinson']
+
+
+=================================
+Printing Summary = 2
+=================================
+['England tight-head prop Phil Vickery has been ruled out of the rest of the 2005 RBS Six Nations after breaking a bone in his right forearm.', 'He could be joined on the sidelines by Bath centre Olly Barkley, who sat out the derby due to a leg injury.', 'And the Gloucester prop was only recalled after Leicester tight-head Julian White suffered a neck injury which has already seen him ruled out of the Ireland game.', "Bath prop Matt Stevens is the only remaining tight-head in England's training squad and could be involved against Ireland.", 'Robinson could choose to recall Mathew Tait or Henry Paul, although Tait endured a nightmare for Newcastle against Leicester on Saturday and Paul limped off with an ankle injury against Bath.']
+
+Printing Keywords = 2
+['england', 'injury', 'play', 'played', 'andy', 'kicking', 'kick', 'ireland', 'bath', 'tight prop', 'nations']
+
+
+=================================
+Printing Summary = 3
+=================================
+['France scrum-half Dimitri Yachvili praised his team after they fought back to beat England 18-17 in the Six Nations clash at Twickenham.', "Yachvili kicked all of France's points as they staged a second-half revival.", 'We were just defending in the first half and we said we had to put them under pressure.', 'We did well." Yachvili admitted erratic kicking from England\'s Charlie Hodgson and Olly Barkley, who missed six penalties and a drop goal chance between them, had been decisive.']
+
+Printing Keywords = 3
+['france', 'yachvili', 'half', 'goal']
+
+
+=================================
+Printing Summary = 4
+=================================
+['Other changes see Julien Laharrague win his first cap at full-back, Aurelien Rougerie return after injury on the wing and Yannick Jauzion in at centre.', '"We are launching him into the great international level," said team manager Jo Maso.', '"The return of Jauzion is going to be a plus for us," said Laporte.', 'Julien Laharrague (Brive), Aurelien Rougerie (Clermont), Yannick Jauzion (Stade Toulousain), Damien Traille (Biarritz), Christophe Dominici (Stade Francais), Yann Delaigue (Castres), Dimitri Yachvili (Biarritz), Julien Bonnaire (Bourgoin), Yannick Nyanga (Beziers), Serge Betsen (Biarritz), Jerome Thion (Biarritz), Fabien Pelous (Stade Toulousain, capt), Nicolas Mas (Perpignan), Sebastien Bruno (Sale), Sylvain Marconnet (Stade Francais)']
+
+Printing Keywords = 4
+['biarritz', 'stade', 'toulousain', 'despite', 'laharrague', 'clermont', 'jauzion', 'bourgoin', 'fan', 'julien', 'yannick']
+
+
+=================================
+Printing Summary = 5
+=================================
+['Lewsey puzzle over disallowed try', 'The Wasps wing insisted he grounded the ball when he was bundled over the line and said referee Jonathan Kaplan had made a wrong decision.', 'The whistle went and I let go of the ball." Lewsey added: "One of the Irish players scooped it back after the whistle and to our surprise the referee then gave a turnover.', 'Cueto was also puzzled as to why his try had been disallowed by Kaplan.']
+
+Printing Keywords = 5
+['lewsey', 'try', 'players', 'player']
+
+
+=================================
+Printing Summary = 6
+=================================
+['England coach Andy Robinson insisted he was "livid" after his side were denied two tries in Sunday\'s 19-13 Six Nations loss to Ireland in Dublin.', "Mark Cueto's first-half effort was ruled out for offside before the referee spurned TV replays when England crashed over in the dying minutes.", 'I don\'t know why we didn\'t." South African referee Jonathan Kaplan ruled that Cueto was ahead of Charlie Hodgson when the fly-half hoisted his cross-field kick for the Sale wing to gather.', 'Kaplan then declined the chance to consult the fourth official when Josh Lewsey took the ball over the Irish line under a pile of bodies for what could have been the game-winning try.', '"I think Mark Cueto scored a perfectly legal try and I think he should have gone to the video referee on Josh Lewsey," said Robinson.', 'They defended magnificently and they\'ve got every chance of winning this Six Nations." England have lost their first three matches in this year\'s Six Nations and four out of their six games since Robinson took over from Sir Clive Woodward in September.']
+
+Printing Keywords = 6
+['robinson', 'referee', 'england', 'kaplan', 'mark', 'cueto']
+
+
+=================================
+Printing Summary = 7
+=================================
+['Ireland fly-half Ronan O\'Gara hailed his side\'s 19-13 victory over England as a "special" win.', 'We have work to do after this but we never take a victory over England lightly." Ireland hooker Shane Byrne echoed O\'Gara\'s comments but admitted the game had been England\'s best outing in the Six Nations.', 'All round it was fantastic." Ireland captain Brian O\'Driscoll, who scored his side\'s only try, said: "We are delighted, we felt if we performed well then we would win but with England also having played very well it makes it all the sweeter.', "Ireland coach Eddie O'Sullivan was surprised that England coach Andy Robinson said he was certain Mark Cueto was onside for a disallowed try just before the break.", '"What I do know is that England played well and when that happens it makes a very good victory for us.', '"I think our try was very well worked, it was a gem, as good a try as we have scored for a while." O\'Sullivan also rejected Robinson\'s contention England dominated the forward play.']
+
+Printing Keywords = 7
+['ireland', 'england', 'said', 'byrne', 'coach', 'played', 'play', 'number']
+
+
+=================================
+Printing Summary = 8
+=================================
+['Wales captain Gareth Thomas has been ruled out of the rest of the Six Nations with a broken thumb.', 'Bennett told BBC Sport: "Such is the spirit in the camp, they\'ll put Kevin Morgan at 15, Rhys Williams at wing and just carry on." Thomas will miss the match against Scotland on 13 March, and what promises to be a huge encounter against the Irish six days later.', 'He\'s a great captain, he leads from the front and the boys love him." Thomas was replaced at half-time by Williams as his side turned around a 15-6 deficit in Paris.', '"He did a great job in the second half in France.', 'Bennett, an inspirational fly-half for Llanelli and Wales in the 1970s, insisted the national team were entering a new golden period.']
+
+Printing Keywords = 8
+['wales captain', 'bennett', 'half', 'bbc', 'gareth', 'great']
+
+
+=================================
+Printing Summary = 9
+=================================
+['Mike Ruddock paid tribute to his Wales side after they came from 15-6 down to beat France 24-18 in the Six Nations.', '"After going two tries down in 12 minutes we had to show character," said the national team coach.', "Two years ago we didn't win a single game in the Six Nations.", 'We\'ve got hard matches to come, so we\'re just happy with the start." Double try scorer Martyn Williams was keen not to talk about a possible Grand Slam for Wales.']
+
+Printing Keywords = 9
+['team', 'hard', 'coach', 'great', 'game']
+
+
+=================================
+Printing Summary = 10
+=================================
+['Newcastle centre Mathew Tait answered his critics as he scored one try and made another, but he could not stop Gloucester grabbing a draw.', 'But Gloucester missed out on victory when Henry Paul fluffed the conversion and Seti Kiole was denied a late try.', "Mayerhofler then scythed through the middle for a try after Hall Charlton popped the ball up, and Walder's conversion took Newcastle 27-22 ahead.", 'With three minutes of normal time left, Narraway was driven over for a try in the corner which levelled the scores at 27-27.', 'Henry missed the conversion but Gloucester nearly won it when Kiole broke through only to be hauled down by Charlton and Tom May.']
+
+Printing Keywords = 10
+['narraway', 'mayerhofler', 'tait', 'gloucester', 'newcastle', 'charlton', 'walder', 'outing', 'kiole', 'paul']
+
+
+=========================================================================
+                            ARTIKEL CRICKET                                
+=========================================================================
+
+=================================
+Printing Summary = 1
+=================================
+['Skipepr Stephen Fleming chose to put Australia in after winning the toss, with former rugby star Jeff Wilson included in the New Zealand team for his first one-day international since March 1993.', 'Gilchrist was caught behind off Daryl Tuffey from the second ball of the match but Hayden and Ponting set about putting things right with a stand of 99 for the second wicket.', "Hayden's century came up off 110 balls but he eventually fell to a catch by Wilson off Kyle Mills, leaving Michael Clarke to add 23 off 13 balls and Mike Hussey 32 not out off 20 as the total mounted past 300.", 'Having passed fifty for the first time in a limited overs international, Vettori was denied a century when he was caught at deep square leg off Gillespie after hitting 10 fours in his 77-ball knock.', 'S P Fleming, N J Astle, M S Sinclair, J Wilson, C D McMillan, H J H Marshall, C L Cairns, B B McCullum, K D Mills, D L Vettori, D R Tuffey', 'M L Hayden, A C Gilchrist, R T Ponting, D R Martyn, A Symonds, M J Clarke, M E K Hussey, G B Hogg, B Lee, J Gillespie, G D McGrath']
+
+Printing Keywords = 1
+['overs', 'ball', 'balls', 'mccullum', 'came', 'martyn', 'vettori', 'ponting', 'gilchrist', 'wicket', 'wickets', 'zealand', 'international', 'australia']
+
+
+=================================
+Printing Summary = 2
+=================================
+['Ali and Pietersen each hit fours before Ntini is deposited high over long on as the Hampshire batsman reaches 99.', 'Pietersen drives a Kallis full toss for four and nicks another ball wide of Boucher for a second boundary.', 'Pietersen drives Ntini wide of mid-off for four.', 'In this over, Giles reaches his best score, and Pietersen brings up the 100 partnership with a six off Hall.', 'Pietersen drives Nel wide of mid-off for four and Giles then plays him behind square on the leg-side for another four.', "Giles thumps Pollock over mid-on for four to bring up England's 100 and adds another boundary by slashing over gully.", 'Pollock returns to the attack and again England can only trade in singles.', 'Five dots balls from Boje, then a single for Giles.', 'England can only take two singles off Ntini.', 'Boje concedes two runs off the bat and a single wide.', 'A cover-drive from Collingwood off Nel brings the batsman four runs.', 'Pietersen whips a straight ball from Hall wide of mid-on for four.', 'Jones top-edges a pull shot off Nel and gives a dolly catch to Kemp at square leg.', 'Hall bowls a maiden at Pietersen.', 'Nel strikes in his first over as Strauss gets an under-edge trying to attack a short ball with a pull shot.', "Ntini gets through his second maiden as England's run rate declines to desparate proportions.", 'Just two more singles come off Pollock, with Strauss and Jones playing watchful cricket.', 'G Smith (capt), N Boje, J Kallis, H Gibbs, A Prince, J Kemp, M Boucher (wkt), S Pollock, M Ntini, A Nel, A Hall.', 'M Vaughan (capt), M Trescothick, G Jones (wkt), A Strauss, K Pietersen, I Bell, V Solanki, P Collingwood, A Giles, Kabir Ali, S Harmison, A Wharf.']
+
+Printing Keywords = 2
+['pietersen', 'ntini', 'nel', 'giles', 'leg', 'single', 'singles', 'pollock', 'hall bowls', 'boje', 'jones', 'ball', 'balls', 'drives', 'drive', 'runs', 'run', 'bowling']
+
+
+=================================
+Printing Summary = 3
+=================================
+['Second one-day international, Durban South Africa 329-6 beat Zimbabwe 198-7 by 131 runs', 'He was given fine support by Herschelle Gibbs - they added 134 before Justin Kemp hit 53 not out off just 21 balls.', 'South Africa lead the series 2-0 with just one to play.', 'Zimbabwe had won the toss at the start of the day and did well with the ball early on, reducing the South Africans to 67-3 in the 15th over.', 'Gibbs took a particular liking to him before eventually falling to Rogers for 75 off 73 balls.', 'Graeme Smith (captain), Adam Bacher, Jacques Rudolph, Herschelle Gibbs, Ashwell Prince, Justin Kemp, Mark Boucher, Albie Morkel, Nicky Boje, Andrew Hall, Charl Langeveldt.', 'Stuart Matsikenyeri, Barney Rogers, Hamilton Masakadza, Alester Maregwede, Brendan Taylor, Tatenda Taibu (captain), Gavin Ewing, Sean Williams, Tinashe Panyangara, Prosper Utseya, Christopher Mpofu.']
+
+Printing Keywords = 3
+['south', 'kemp', 'zimbabwe', 'bowler', 'africa', 'rogers', 'captain', 'matsikenyeri', 'gibbs', 'half', 'fine']
+
+
+=================================
+Printing Summary = 4
+=================================
+['Inzamam said ahead of Pakistan\'s first full tour of India for six years: "We want to make amends for last year.', '"The Australian tour was a big learning experience and I think we are in a position to reap benefits in India." Series between India and Pakistan are always eagerly awaited, largely because politics often restrict the amount of cricket the two teams can play against each other.', "The schedule has already been put back four days over a dispute which centred on Pakistan's refusal to play the second Test in Ahmedabad.", 'Woolmer has helped change the attitude of the boys which is more positive and professional and I think they can take the pressure of playing in India." Pakistan will be without strike bowler Shoaib Akhtar (hamstring), leaving recalled off-spinner Arshad Khan and leg-spinner Danish Kaneria with much work to do.', '"[Khan and Kaneria] have a big role to play in India.']
+
+Printing Keywords = 4
+['pakistan', 'inzamam', 'shoaib', 'khan', 'india', 'muhammad', 'awaited', 'tests', 'test', 'board', 'captain', 'said']
+
+
+=================================
+Printing Summary = 5
+=================================
+['Former England and Gloucestershire wicket-keeper Jack Russell has been called in to give coaching to current national team gloveman Geraint Jones.', 'Jones did not have the best of tours in South Africa, dropping catches and conceding too many byes.', 'Russell told the Daily Express: "Duncan and captain Michael Vaughan have asked me to build a relationship with Geraint and give him whatever help he needs." The pair have already worked closely but Russell will be heavily involved as the countdown to the Ashes begins.', 'He said: "Geraint has got the ability to play 100 Tests for England.']
+
+Printing Keywords = 5
+['keeper', 'duncan', 'africa', 'harmison', 'michael', 'attitude']
+
+
+=================================
+Printing Summary = 6
+=================================
+['Prior top-scored with 84 as a stand of 100 helped England A to 280 for eight in Sharjah with Solanki making 55 and Michael Powell 42.', 'V S Solanki, M J Prior (Wkt), I R Bell (Capt), O A Shah M J Powell, A P R Gidman, G P Swann, P J Franks, R K J Dawson D S Harrison, J Lewis.']
+
+Printing Keywords = 6
+['uae', 'khan', 'usman', 'won', 'powell']
+
+
+=================================
+Printing Summary = 7
+=================================
+['India were wrong to leave Mohammad Kaif out of their squad for the first Test against Pakistan, according to former captain Mohammad Azharuddin.', '"Kaif batted very well against Australia on a tough wicket," Azharuddin told BBC Sport.', "Pakistan, minus injured paceman Shoaib Akhtar, are due to arrive in India on Monday ahead of their first warm-up match against the Indian Board President's XI starting on Thursday.", 'In 99 Tests for India from 1984 to 2000, Azharuddin scored 6,215 runs at an average of 45 with 22 centuries.']
+
+Printing Keywords = 7
+['azharuddin', 'kaif', 'despite', 'mohammad', 'singh', 'shoaib', 'squad', 'life']
+
+
+=================================
+Printing Summary = 8
+=================================
+['New Zealand coach John Bracewell is furious that Australia paceman Brett Lee has bowled four beamers at his batsmen in the current one-day series.', 'Brendon McCullum was struck on the arm by a waist-high full toss in Auckland on Sunday, a match Australia won.', "Bracewell was also of the view that Lee had bowled a beamer at Pakistan's Abdul Razzaq during the VB Series.", '"[McCullum] lost it there for 15-20 seconds and I went up and apologised and said \'I would never mean to do that\'." Australia captain Ricky Ponting refuses to admit there is animosity between the sides despite Bracewell\'s disquiet.', 'It\'s been a good series played in great spirit." In the laws of the game, a bowler is removed from the attack by the umpires for bowling two beamers in a match, whether accidental or not.']
+
+Printing Keywords = 8
+['bracewell', 'mccullum', 'lee', 'series', 'australia', 'michael', 'dew']
+
+
+=================================
+Printing Summary = 9
+=================================
+["The doubts surrounding Pakistan's tour of India have receded after the two boards agreed to move the second Test from Ahmedabad to Calcutta.", 'In return for switching the Test, Pakistan have agreed to play an extra one-day international in Ahmedabad.', '"The tour may get delayed by three to four days," said Pakistan Cricket Board chairman Shaharyar Khan.', 'A sixth one-day international will be played in Ahmedabad to appease the Gujarat Cricket Association.', 'The Pakistan Cricket Board initially suggested Mumbai as an alternative for the Ahmedabad Test, but it was agreed it would be played in Calcutta (Kolkata).', 'The first and third Tests will take place at Mohali and Bangalore, while Cochin, Vishakapatnam, Delhi, Jamshedpur and Kanpur will stage the other five one-day internationals.']
+
+Printing Keywords = 9
+['pakistan', 'cricket', 'cricketers', 'test', 'tests', 'khan', 'boards', 'board', 'days said', 'day', 'dalmiya']
+
+
+=================================
+Printing Summary = 10
+=================================
+['New Zealand have dropped seam bowler Daryl Tuffey following his woeful display in the third one-day international against Australia.', 'New Zealand lost by 86 runs as Australia wrapped up the series with two matches remaining.', "Kiwi captain Stephen Fleming said he was disappointed with Tuffey's performance at Eden Park."]
+
+Printing Keywords = 10
+['tuffey', 'craig', 'new', 'captain', 'star', 'lee', 'international', 'lance']
+
+
+=========================================================================
+                            ARTIKEL ATHLETICS                              
+=========================================================================
+
+=================================
+Printing Summary = 1
+=================================
+["British hurdler Sarah Claxton is confident she can win her first major medal at next month's European Indoor Championships in Madrid.", 'The 25-year-old has already smashed the British record over 60m hurdles twice this season, setting a new mark of 7.96 seconds to win the AAAs title.', '"As long as I keep up my training but not do too much I think there is a chance of a medal." Claxton has won the national 60m hurdles title for the past three years but has struggled to translate her domestic success to the international stage.']
+
+Printing Keywords = 1
+['claxton', 'medal', 'season', 'seasons', 'british', 'european']
+
+
+=================================
+Printing Summary = 2
+=================================
+["The participation of O'Sullivan, currentily training at her base in Australia, would boost the Ireland team who won the bronze three years agio.", "O'Sullivan will also take part in the Bupa Great Ireland Run on 9 April in Dublin."]
+
+Printing Keywords = 2
+['ireland', 'teams', 'team', 'official', 'officially', 'currentily']
+
+
+=================================
+Printing Summary = 3
+=================================
+['Maurice Greene aims to wipe out the pain of losing his Olympic 100m title in Athens by winning a fourth World Championship crown this summer.', 'I lost because of the things I did," said Greene, who races in Birmingham on Friday.', 'My goal - I\'m going to win the worlds." Greene crossed the line just 0.02 seconds behind Gatlin, who won in 9.87 seconds in one of the closest and fastest sprints of all time.', 'But Greene believes he lost the race and his title in the semi-finals.', '"I believe if I was in the middle of the race I would have been able to react to people that came ahead of me." Greene was also denied Olympic gold in the 4x100m men\'s relay when he could not catch Britain\'s Mark Lewis-Francis on the final leg.', 'I think when I was coming up I would say there was me and Ato (Boldon) in the young crowd," Greene said.']
+
+Printing Keywords = 3
+['greene', 'world', 'worlds', 'final', 'olympic', 'union', 'grand']
+
+
+=================================
+Printing Summary = 4
+=================================
+["The IAAF - athletics' world governing body - has met anti-doping officials, coaches and athletes to co-ordinate the fight against drugs in sport.", '"I am very happy to see you all, members of the athletics family, respond positively to the IAAF call to sit together and discuss what more we can do in the fight against doping," said Diack.']
+
+Printing Keywords = 4
+['athletics', 'athletes', 'athlete', 'iaaf', 'doping', 'attended']
+
+
+=================================
+Printing Summary = 5
+=================================
+["Ethiopia's Tirunesh Dibaba set a new world record in winning the women's 5,000m at the Boston Indoor Games.", 'Dibaba won in 14 minutes 32.93 seconds to erase the previous world indoor mark of 14:39.29 set by another Ethiopian, Berhane Adera, in Stuttgart last year.', "Ireland's Alistair Cragg won in 7:39.89 as Bekele battled to second in 7:41.42."]
+
+Printing Keywords = 5
+['dibaba', 'indoor', 'world record']
+
+
+=================================
+Printing Summary = 6
+=================================
+['Pole vaulter Yelena Isinbayeva broke her own indoor world record by clearing 4.89 metres in Lievin on Saturday.', "In the men's 60m, former Olympic 100m champion Maurice Greene could only finish second to Leonard Scott."]
+
+Printing Keywords = 6
+['champion', 'world', 'isinbayeva']
+
+
+=================================
+Printing Summary = 7
+=================================
+["O'Sullivan commits to Dublin race", "Sonia O'Sullivan will seek to regain her title at the Bupa Great Ireland Run on 9 April in Dublin."]
+
+Printing Keywords = 7
+['race', 'carroll', 'stiff', 'having']
+
+
+=================================
+Printing Summary = 8
+=================================
+['Her coach Aston Moore told the Times: "We\'re not looking at any sooner than 2006, not as a triple jumper." Moore said Hansen may be able to return to sprinting and long jumping sooner, but there is no short-term prospect of her being involved again in her specialist event.', '"The aim is for her to get fit as an athlete - then we will start looking at sprinting and the long jump as an introduction back to the competitive arena." Moore said he is confident Hansen can make it back to top-level competition, though it is unclear if that will be in time for the Commonwealth Games in Melbourne next March, when she will be 34.']
+
+Printing Keywords = 8
+['hansen', 'moore', 'european', 'jumping', 'jump']
+
+
+=================================
+Printing Summary = 9
+=================================
+["Britain's Jason Gardener shook off an upset stomach to win the 60m at Sunday's Leipzig International meeting.", "Gardener clocked 6.56 seconds to equal the meeting record and finished well ahead of Germany's Marc Blume, who crossed the line in 6.67 secs.", 'Then everything went perfectly." Gardener, part of the Great Britain 4x100m quartet that won gold at the Athens Olympics, will now turn his attention to next weekend\'s Norwich Union European Indoor trials in Sheffield.', 'clocked a new UK record of 7.98 seconds at a meeting in Norway.', ', who broke onto the international scene at the Olympic Games last season, set an indoor personal best of 16.50m in the triple jump at a meeting in Ghent.', "finished third in 7.27 seconds in a high-class women's 60m.", "The 28-year-old cleared 1.76m to win the high jump and threw 13.86m in the women's shot put."]
+
+Printing Keywords = 9
+['gardener', 'indoor champion', 'meeting', 'olympics', 'olympic', 'britain', 'international', 'finished', 'finish']
+
+
+=================================
+Printing Summary = 10
+=================================
+['The St Kitts and Nevis star joins British Olympic relay gold medallists Jason Gardener and Mark Lewis-Francis.', '"Jason Gardener and Mark Lewis-Francis are Olympic gold medallists now and I\'m sure they\'ll be aiming to win in front of their home supporters.', '"I\'m looking forward to competing against Britain\'s best sprinters and I\'m sure the 60 metres will be one of the most exciting races of the evening." Collins was sixth in the Olympic final in Athens but is hoping for a better result at the World Championships in Finland this summer.']
+
+Printing Keywords = 10
+['olympic', 'world', 'francis', 'indoor', 'indoors', 'medallists', 'medallist']
+
+
